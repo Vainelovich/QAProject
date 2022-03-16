@@ -1,2 +1,2 @@
-valid_email = "vasya@mail.com"
-valid_password = "12345"
+valid_email = "via@gmail.com"
+valid_password = "qwerty"
